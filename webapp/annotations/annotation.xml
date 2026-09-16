@@ -13,6 +13,7 @@
                     <Collection>
                         <PropertyPath>SupplierID</PropertyPath>
                         <PropertyPath>Discontinued</PropertyPath>
+                        <PropertyPath>CategoryID</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
